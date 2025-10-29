@@ -4,7 +4,7 @@ A simple lightmeter app designed for the Samsung Galaxy Watch 5
 # Overview
 This Wear OS application calculates the appropriate shutter speed or aperture using the built-in lightmeter under the screen. The application allows users to adjust the shutter speed, aperture, ISO, and exposure compensation.
 
-
+![](https://github.com/kao-SS/watchOSLightMeter/blob/main/cover1.jpg) ![](https://github.com/kao-SS/watchOSLightMeter/blob/main/cover2.jpg)
 
 # Usage
 1. Launch the application
